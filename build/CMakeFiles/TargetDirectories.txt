@@ -1,0 +1,3 @@
+/Users/adrianaholtzman/Desktop/ray-tracer/build/CMakeFiles/raytracer.dir
+/Users/adrianaholtzman/Desktop/ray-tracer/build/CMakeFiles/edit_cache.dir
+/Users/adrianaholtzman/Desktop/ray-tracer/build/CMakeFiles/rebuild_cache.dir
