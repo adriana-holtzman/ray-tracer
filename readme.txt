@@ -15,6 +15,7 @@ ray-tracer/
 │   └── mirror.h
 ├── src/
 │   ├── vec3.cpp
+│   ├── ray.cpp
 │   ├── image.cpp
 │   ├── camera.cpp
 │   ├── sphere.cpp
